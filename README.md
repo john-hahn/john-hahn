@@ -20,7 +20,11 @@ I am third-year undergrad at UChicago. Currently I am interning at Edovo, a Chic
 ### 📫 How to reach me: ...
 - Gmail: johnjhhahn@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=john-hahn&theme=tokyonight)](https://git.io/streak-stats)
+
+<br>
+<p align="center">
+  <a href=#><img src="https://github-readme-streak-stats.herokuapp.com/?user=john-hahn&theme=tokyonight"/></a>
+</p>
 
 <!--
 **john-hahn/john-hahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
