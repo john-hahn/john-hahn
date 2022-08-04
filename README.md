@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm John 👨‍💻 </h1>
 
-I am third-year undergrad at UChicago. Currently I am interning at Edovo, a Chicago-based EdTech startup, as a software developer intern working on full-stack features, such as closed captions, course visibility, and optional content within courses. I am interested in learning more about databases and APIs as I go further along my journey into CS!
+I am a third-year undergrad at UChicago. Currently, I am interning at Edovo, a Chicago-based EdTech startup, as a software developer intern working on full-stack features, such as closed captions, course visibility, and optional content within courses. I am interested in learning more about databases and APIs as I go further along my journey into CS!
 
 <p align='center'>
   
