@@ -12,7 +12,7 @@ I am a third-year undergrad at UChicago. Currently, I am interning at Edovo, a C
 
 ### 🔭 I’m currently working on ...
 - <a href="https://github.com/john-hahn/aktiiv"> Aktiiv</a>: a full-stack web application for tracking, searching, and updating your workout
-- Resume book: a full-stack web application to store resumes for recruiters, organizations, and students
+- <a href="https://github.com/resume-book"> Resume book</a>: a full-stack web application to store resumes for recruiters, organizations, and students
 
 ### 📖 I'm currently reading ...
 - Designing Data Intensive Applications by Martin Kleppmann
