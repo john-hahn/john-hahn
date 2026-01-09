@@ -1,4 +1,4 @@
-building kernel gen
+gpu
 
 <p align='center'>
   
