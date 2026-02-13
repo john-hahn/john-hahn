@@ -1,5 +1,3 @@
-gpu
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/john-hahn-12a1861b6/">
@@ -7,9 +5,6 @@ gpu
   </a>&nbsp;&nbsp;
   
 </p>
-
-### 🔭 I’m currently working on ...
-- company stuff
 
 ### 📖 I'm currently reading ...
 - Programming Massively Parallel Processors (PMPP)
